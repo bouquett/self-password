@@ -1,0 +1,17 @@
+.loginForm {
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.LoginIntro {
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  justify-content: center;
+
+  h2 {
+    color: #fff
+  }
+}
